@@ -1,12 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 
-/*
-	Dimension by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -95,7 +89,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #1b1f22;
+		background: #1d1f20;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -431,7 +425,7 @@ input, select, textarea {
 		}
 
 	select {
-		background-image: url("https://media.discordapp.net/attachments/838441332657750026/838708696586518579/kccognghpov.png?width=842&height=473");
+		background-image: url("https://media.discordapp.net/attachments/838441332657750026/839014431273910302/image.png?width=674&height=378");
 		background-size: 1.25rem;
 		background-repeat: no-repeat;
 		background-position: calc(100% - 1rem) center;
@@ -646,7 +640,7 @@ input, select, textarea {
 
 		.image:before {
 			pointer-events: none;
-			background-image: url("https://media.discordapp.net/attachments/838441332657750026/838708696586518579/kccognghpov.png?width=842&height=473");
+			background-image: url("");
 			background-color: rgba(19, 21, 25, 0.5);
 			border-radius: 4px;
 			content: '';
@@ -1094,7 +1088,7 @@ input, select, textarea {
 		.button:disabled {
 			pointer-events: none;
 			cursor: default;
-			opacity: 0.25;
+			opacity: 0.1;
 		}
 
 	input[type="submit"],
@@ -1158,7 +1152,7 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("https://media.discordapp.net/attachments/838441332657750026/838708696586518579/kccognghpov.png?width=842&height=473");
+			background-image: url("https://media.discordapp.net/attachments/838441332657750026/839014431273910302/image.png?width=674&height=378");
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
@@ -1166,10 +1160,10 @@ input, select, textarea {
 		}
 
 		body.is-article-visible #bg:after {
-			-moz-transform: scale(1.0825);
-			-webkit-transform: scale(1.0825);
-			-ms-transform: scale(1.0825);
-			transform: scale(1.0825);
+			-moz-transform: scale(1.105);
+			-webkit-transform: scale(1.105);
+			-ms-transform: scale(1.105);
+			transform: scale(1.105);
 			-moz-filter: blur(0.2rem);
 			-webkit-filter: blur(0.2rem);
 			-ms-filter: blur(0.2rem);
